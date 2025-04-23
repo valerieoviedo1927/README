@@ -1,0 +1,23 @@
+# Ignorar entornos virtuales
+venv/
+Lib/site-packages/
+
+# Ignorar los archivos de cache de pytest
+.pytest_cache/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar los archivos de compilación
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar archivos de configuración del editor
+.vscode/
+.idea/
+*.swp
+
+# Ignorar archivos de configuración del sistema
+.DS_Store
+Thumbs.db
