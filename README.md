@@ -17,3 +17,4 @@ Para construir y ejecutar el contenedor:
 ```bash
 docker build -t fastapi-ci-cd .
 docker run -d -p 8000:8000 fastapi-ci-cd
+Última actualización: 6 de mayo de 2025
